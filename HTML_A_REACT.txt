@@ -1,0 +1,6 @@
+Pasar HTML a React:
+
+1) Cambiar todos los "class" por los "className"
+2) Borrar los comentarios HTML "<!---->
+3) Cerrar los tag por ejemplo: "<img />", "<input />", "<br/>"
+
